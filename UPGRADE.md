@@ -1,6 +1,12 @@
 UPGRADE
 =======
 
+
+Upgrading from 0.5 to 0.6
+-------------------------
+#TODO
+
+
 Upgrading from 0.4 to 0.5
 -------------------------
 
